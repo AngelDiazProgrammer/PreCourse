@@ -110,3 +110,29 @@ nombre= "Angel"+" David"+" Diaz"+" Flechas";
 profesion= "PROGRAMADOR"
 console.log(nombre+" "+profesion);
 
+//Corchetes
+lenguajeDeProgramacion= "JavaScript";
+
+console.log(lenguajeDeProgramacion[0]);
+console.log(lenguajeDeProgramacion[1]);
+console.log(lenguajeDeProgramacion[2]);
+console.log(lenguajeDeProgramacion[3]);
+console.log(lenguajeDeProgramacion[4]);
+console.log(lenguajeDeProgramacion[5]);
+console.log(lenguajeDeProgramacion[6]);
+console.log(lenguajeDeProgramacion[7]);
+console.log(lenguajeDeProgramacion[8]);
+console.log(lenguajeDeProgramacion[9]);
+
+//Cambiar
+//inmutables
+console.log(lenguajeDeProgramacion);
+ lenguajeDeProgramacion = "javascript";
+ console.log(lenguajeDeProgramacion);
+
+// longitud de cadena//
+//.legth//
+
+
+
+
